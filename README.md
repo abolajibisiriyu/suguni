@@ -2,7 +2,7 @@
 
 Create simple, responsive coming-soon pages 🚀.
 
-[Live Demo](https://)
+[Live Demo](https://suguni.vercel.app/)
 
 &nbsp;
 

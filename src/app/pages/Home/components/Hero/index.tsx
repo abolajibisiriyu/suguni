@@ -17,7 +17,7 @@ const HeroSection: FC = (props) => {
     <>
       <Nav>
         <div className="content">
-          <Link to="/" className="logo text-24">
+          <Link to="/" className="logo text-24" title="logo">
             <img
               src="https://res.cloudinary.com/abolajibisiriyu/image/upload/v1606597590/suguni/conifer-75.png"
               alt="icon"

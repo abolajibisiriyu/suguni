@@ -45,6 +45,13 @@
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.1.6",
-    "@types/styled-components": "^5.1.4"
+    "@types/styled-components": "^5.1.4",
+    "canvas": "^2.6.1"
+  },
+  "jest": {
+    "watchPathIgnorePatterns": [
+      "<rootDir>/src/__tests__/setup",
+      "<rootDir>/src/__tests__/windowMocks"
+    ]
   }
 }

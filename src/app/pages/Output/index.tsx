@@ -31,8 +31,8 @@ const Output: FC = () => {
       <div className="header">
         <Button onClick={goBack}>Go Back</Button>
       </div>
-      <OutBody>
-        <SelctedTheme theme={state} />
+      <OutBody data-testid={state.theme}>
+        {SelctedTheme && <SelctedTheme theme={state} />}
       </OutBody>
     </OutputContainer>
   );

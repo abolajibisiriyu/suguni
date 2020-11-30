@@ -1,4 +1,4 @@
-# SuguNI
+# Sugu**NI**
 
 Create simple, responsive coming-soon pages 🚀.
 
